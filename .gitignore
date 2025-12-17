@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+my.db
+
+# deps
+node_modules/
